@@ -1,5 +1,6 @@
 # fraqtive-beta
- Fractal Visualization for Singular Perturbarion of the Quadratic Map
+Appendix (code) of the Master Project in UMD - Fractal Visualization for Singular Perturbarion of the Quadratic Map
+
 ## Declaration
 This package is modified based on the open source [fraqtive](https://fraqtive.mimec.org/) software.
 
